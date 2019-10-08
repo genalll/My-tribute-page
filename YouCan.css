@@ -1,0 +1,51 @@
+#main {
+    margin: 10px auto;
+    text-align: center;
+    box-shadow: black 5px; }
+
+li{
+    text-align:left;
+    margin-left:50px;
+    margin-top:10px;
+}
+
+#img-div {
+    margin: 0 auto;
+    width:600px;
+    height:500px;
+    text-align: center;
+    overflow:hidden;
+}
+#image {
+    width:100%;
+   
+}
+
+#image:hover { transform: scale(1.1);
+               transition: 1s;}
+
+#tribute-info { 
+    color:darkslategrey;
+    
+}
+
+#tribute-link { 
+    display:block;
+    margin-top: 50px;
+
+}
+footer{
+    text-align:center;
+    background-color: darkslategrey;
+    color:white;
+}
+
+a:visited {
+    color:black;
+}
+
+h1{
+    text-align:center;
+    background-color: darkslategrey;
+    color:white;
+}
